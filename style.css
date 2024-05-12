@@ -58,7 +58,7 @@ nav{
 }
 
 .header{
-    height: 400px;
+    width: 100%;
     background-image: url(./01.jpg); 
     text-align: center;
     background-size: cover;
